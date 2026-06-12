@@ -1,0 +1,7 @@
+pandas
+numpy 
+nltk
+stopwords
+scikit-learn
+matplotlib
+seaborn
